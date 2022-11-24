@@ -1,7 +1,7 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 <img src="Images/Programming.jpg" width="1000">
 
-# Created by Saurav Raghuvanshi
+# Created by Maryam alakkas
 
 This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
@@ -56,11 +56,4 @@ This program was written in Python (version 3.7.1) and relies on the following l
 
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 
-### Project Submission
 
-The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
-
-[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
-
-# My Certificate of Completion
-<img src="Images/Data Science.png" width="1000">
