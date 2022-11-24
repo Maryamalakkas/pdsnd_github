@@ -1,44 +1,66 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity-programming-for-Data-Science-using-Python-Nanodegree
+<img src="Images/Programming.jpg" width="1000">
 
+# Created by Saurav Raghuvanshi
 
+This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
-milestone 2 of Programming for Data Science Nanodegree Program 
-Explore-US-Bikeshare-Data Udacity Data Analyst Degree - Project II
+## Project 1
 
-Overview In this project, I will explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Python, I will write a code import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+### Overview
 
+This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
 
+For the presentation component, the student had to create four slides, and each should have (a) a question of interest, (b) a supporting SQL query needed to answer the question, (c) a supporting visualization created using the final data of the SQL queries that answer the questions of interest, and (d) a small summary on each slide.
 
+### Project Submission
 
-What Software Do I Need? To complete this project, i'll require the following softwares:
+[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project%201/Project%201%20for%20Submission/Saurav%20Raghuvanshi%20SQL%20submission.pdf)
 
-Python A text editor, like Sublime or Atom A terminal application The Datasets The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. 
+### Question Sets
 
+A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission.
+[Check this out](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project%201/Project%20Question)
 
-The data files for all three cities contain the same core six columns:
+## Project 2
 
-Start Time End Time Trip Duration Start Station End Station User Type 
+### Overview
 
-The Chicago and New York City files also have the following two columns:
+In this project, the student had to make use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. The student had to write code to (a) import the data and answer interesting questions about it by computing descriptive statistics, and (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-Gender Birth Year
+### Project Submission
 
-Answering Questions Through writing code, I'm able to answer the following questions about the bike share data:
+The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
-What month occurs most often in the start time?
+[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project-2).
+### Python Learning In The Course
 
-What day of the week (Monday, Tuesday, etc.) occurs most often in the start time? 
+Check the link for my learning material.
+[Check this out](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Python%20practice%20code)
 
-What hour of the day occurs most often in the start time? 
+#### Files Used
 
-What is the total trip duration and average trip duration? 
+The required files for running this program are: 
 
-What is the most frequently used start station and most frequently used end station?
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
-What is the most common trip (i.e., the combination of start station and end station that occurs the most often)? 
+#### Requirements
+This program was written in Python (version 3.7.1) and relies on the following libraries:
 
-What are the counts of each user type? 
+* pandas==0.23.4
+* numpy==1.15.4
 
-What are the counts of gender?
+## Project 3
 
-What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+### Project Submission
+
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
+
+# My Certificate of Completion
+<img src="Images/Data Science.png" width="1000">
